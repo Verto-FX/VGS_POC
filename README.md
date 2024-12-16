@@ -3,11 +3,11 @@ To address the PCI compliance requirements for our company and ensure sensitive 
 
 
 # DESCRIPTION
-OUTBOUND_CONNECTION : Outbound connections refer to the data or requests leaving VGS to interact with external services or vendors (e.g., VGS sending  data to a vendor for processing).
-OUTBOUND_PROXY : VGS URL
-ACCESS_CREDENTIALS : user credentials
-NODE_EXTRA_CA_CERTS : Certicate needed for outbound
-VENDOR_URL : THIRD PARTY URL OR SERVER_UPSTREAM_HOST.
+OUTBOUND_CONNECTION : Outbound connections refer to the data or requests leaving VGS to interact with external services or vendors (e.g., VGS sending  data to a vendor for processing). </br>
+OUTBOUND_PROXY : VGS URL </br>
+ACCESS_CREDENTIALS : user credentials </br>
+NODE_EXTRA_CA_CERTS : Certicate needed for outbound </br>
+VENDOR_URL : THIRD PARTY URL OR SERVER_UPSTREAM_HOST.</br>
 
 # How to Run
 

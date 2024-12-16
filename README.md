@@ -9,7 +9,7 @@ ACCESS_CREDENTIALS : user credentials
 NODE_EXTRA_CA_CERTS : Certicate needed for outbound
 VENDOR_URL : THIRD PARTY URL OR SERVER_UPSTREAM_HOST.
 
-## How to Run
+# How to Run
 
 1. **Proper Configuration in VGS Dashboard**
    - Ensure that you have set up the necessary configurations in the VGS (Very Good Security) Dashboard. This includes setting up your vault, routes, and rules to manage the secure handling of  data and larky code if using larky feature
